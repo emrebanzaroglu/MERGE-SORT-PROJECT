@@ -1,7 +1,7 @@
 # **MERGE SORT PROJECT**
 Patika.dev Profile: https://app.patika.dev/emrebanzaroglu
 
-# **PROJECT: Insertion Sort Project** 
+# **PROJECT: Merge Sort Project** 
 
 [16,21,11,8,12,22] -> Merge Sort
 
